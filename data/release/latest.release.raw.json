@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1506943,
       "digest": "sha256:16d44a87d232b6c52ba989ab2f1fcd249d2772bfdb3f070d9f8c7dae110679a9",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-01-24T12:02:54Z",
       "updated_at": "2026-01-24T12:02:56Z",
       "browser_download_url": "https://github.com/sinclairtarget/git-who/releases/download/v1.3/gitwho_v1.3_darwin_amd64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1402987,
       "digest": "sha256:ad8625e4de557a29eeba8c7912eb12255e627307586ae247552a363d63e9b6cb",
-      "download_count": 34,
+      "download_count": 35,
       "created_at": "2026-01-24T12:02:56Z",
       "updated_at": "2026-01-24T12:02:58Z",
       "browser_download_url": "https://github.com/sinclairtarget/git-who/releases/download/v1.3/gitwho_v1.3_darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1520858,
       "digest": "sha256:f031ea951f837d1a67c906e3a672c6afe09c4314fa5bf7e63a00b86749f86b72",
-      "download_count": 28062,
+      "download_count": 28163,
       "created_at": "2026-01-24T12:02:58Z",
       "updated_at": "2026-01-24T12:03:00Z",
       "browser_download_url": "https://github.com/sinclairtarget/git-who/releases/download/v1.3/gitwho_v1.3_linux_amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 522,
       "digest": "sha256:62bb5a8ade5557e155e1f922b39c386afdbc4d1af74947ad04aa5f96486d5099",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-01-24T12:03:05Z",
       "updated_at": "2026-01-24T12:03:06Z",
       "browser_download_url": "https://github.com/sinclairtarget/git-who/releases/download/v1.3/SHA2-256SUMS_v1.3.txt"
