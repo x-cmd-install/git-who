@@ -5,7 +5,7 @@ about:
   head: 4cef5aa
   archived: false
   latestVersion: "v1.3"
-  collectedAt: 2026-09-08T03:00:16Z
+  collectedAt: 2026-09-08T05:29:36Z
 timeline:
   created: 2024-12-07
   lastCommit: 2026-05-28
@@ -81,7 +81,7 @@ total:
   commit: 359
 ---
 path: /home/runner/.x-repo/github.com/sinclairtarget/git-who
-collectedAt: 2026-09-08T03:00:17Z
+collectedAt: 2026-09-08T05:29:37Z
 loc:
   Go:
     code: 6129
