@@ -7,7 +7,7 @@ Git blame for file trees
 - **Latest release**: `v1.3` (2026-01-24)
 - **Last commit**: 2026-05-28
 - **License**: MIT
-- **Stars**: 2674 · **Forks**: 55 · **Open issues**: 33 · **Contributors**: 8
+- **Stars**: 2673 · **Forks**: 55 · **Open issues**: 33 · **Contributors**: 8
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/git-who> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T12:16:24Z._
+_Last regenerated: 2026-09-09T05:41:44Z._
