@@ -1,0 +1,137 @@
+- repo: aur
+  srcname: git-who
+  binname: git-who
+  visiblename: git-who
+  version: "1.3"
+  origversion: 1.3-1
+  status: newest
+  summary: Git blame for file trees
+  maintainers:
+    - daniel_chesters@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: git-who-bin
+  binname: git-who-bin
+  visiblename: git-who-bin
+  version: "1.3"
+  origversion: 1.3-1
+  status: newest
+  summary: Git blame for file trees
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: devel/git-who
+  binname: git-who
+  visiblename: devel/git-who
+  version: "1.3"
+  origversion: "1.3_10"
+  status: newest
+  summary: Git blame for file trees
+  maintainers:
+    - nxjoseph@freebsd.org
+  categories:
+    - devel
+- repo: homebrew
+  srcname: git-who
+  visiblename: git-who
+  version: "1.3"
+  origversion: null
+  status: newest
+  summary: Git blame for file trees
+- repo: homebrew
+  srcname: git-who
+  visiblename: git-who
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Git blame for file trees
+- repo: macports
+  srcname: devel/git-who
+  binname: git-who
+  visiblename: git-who
+  version: "1.3"
+  origversion: null
+  status: newest
+  summary: Git blame for file trees
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - devel
+- repo: nix_stable_25_05
+  srcname: git-who
+  visiblename: git-who
+  version: "0.7"
+  origversion: null
+  status: outdated
+  summary: Git blame for file trees
+  maintainers:
+    - john@mcpar.land
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: git-who
+  visiblename: git-who
+  version: "1.2"
+  origversion: null
+  status: outdated
+  summary: Git blame for file trees
+  maintainers:
+    - john@mcpar.land
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: git-who
+  visiblename: git-who
+  version: "1.3"
+  origversion: null
+  status: newest
+  summary: Git blame for file trees
+  maintainers:
+    - john@mcpar.land
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: git-who
+  visiblename: git-who
+  version: "1.3"
+  origversion: null
+  status: newest
+  summary: Git blame for file trees
+  maintainers:
+    - john@mcpar.land
+  licenses:
+    - MIT
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: git-who
+  binnames:
+    - git-who
+    - git-who-debuginfo
+    - git-who-debugsource
+  visiblename: git-who
+  version: "1.3"
+  origversion: 1.3-1.7
+  status: newest
+  summary: Git blame for file trees
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: t2
+  srcname: git-who
+  visiblename: git-who
+  version: "1.3"
+  origversion: null
+  status: newest
+  summary: Git blame for file trees
+  maintainers:
+    - rene@exactco.de
+  licenses:
+    - MIT
+  categories:
+    - extra/tool
