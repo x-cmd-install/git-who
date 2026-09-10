@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1520858,
       "digest": "sha256:f031ea951f837d1a67c906e3a672c6afe09c4314fa5bf7e63a00b86749f86b72",
-      "download_count": 28316,
+      "download_count": 28625,
       "created_at": "2026-01-24T12:02:58Z",
       "updated_at": "2026-01-24T12:03:00Z",
       "browser_download_url": "https://github.com/sinclairtarget/git-who/releases/download/v1.3/gitwho_v1.3_linux_amd64.tar.gz"
