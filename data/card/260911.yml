@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.3"
   latestRelease: "v1.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:37:12Z
+  collectedAt: 2026-09-11T19:16:06Z
 timeline:
   created: 2024-12-07
   lastCommit: 2026-05-28
@@ -85,7 +85,7 @@ total:
   commit: 359
 ---
 path: /home/runner/.x-repo/github.com/sinclairtarget/git-who
-collectedAt: 2026-09-11T05:37:13Z
+collectedAt: 2026-09-11T19:16:07Z
 loc:
   Go:
     code: 6129
