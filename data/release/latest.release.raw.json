@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1402987,
       "digest": "sha256:ad8625e4de557a29eeba8c7912eb12255e627307586ae247552a363d63e9b6cb",
-      "download_count": 36,
+      "download_count": 38,
       "created_at": "2026-01-24T12:02:56Z",
       "updated_at": "2026-01-24T12:02:58Z",
       "browser_download_url": "https://github.com/sinclairtarget/git-who/releases/download/v1.3/gitwho_v1.3_darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1520858,
       "digest": "sha256:f031ea951f837d1a67c906e3a672c6afe09c4314fa5bf7e63a00b86749f86b72",
-      "download_count": 29319,
+      "download_count": 29644,
       "created_at": "2026-01-24T12:02:58Z",
       "updated_at": "2026-01-24T12:03:00Z",
       "browser_download_url": "https://github.com/sinclairtarget/git-who/releases/download/v1.3/gitwho_v1.3_linux_amd64.tar.gz"
