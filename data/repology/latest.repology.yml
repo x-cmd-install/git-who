@@ -1,17 +1,3 @@
-- repo: homebrew
-  srcname: git-who
-  visiblename: git-who
-  version: "1.3"
-  origversion: null
-  status: newest
-  summary: Git blame for file trees
-- repo: homebrew
-  srcname: git-who
-  visiblename: git-who
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Git blame for file trees
 - repo: aerynos
   srcname: git-who
   visiblename: git-who
@@ -50,13 +36,27 @@
   binname: git-who
   visiblename: devel/git-who
   version: "1.3"
-  origversion: "1.3_12"
+  origversion: "1.3_13"
   status: newest
   summary: Git blame for file trees
   maintainers:
     - nxjoseph@freebsd.org
   categories:
     - devel
+- repo: homebrew
+  srcname: git-who
+  visiblename: git-who
+  version: "1.3"
+  origversion: null
+  status: newest
+  summary: Git blame for file trees
+- repo: homebrew
+  srcname: git-who
+  visiblename: git-who
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Git blame for file trees
 - repo: macports
   srcname: devel/git-who
   binname: git-who
