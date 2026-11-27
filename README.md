@@ -47,12 +47,12 @@ Total: **7,044** lines of code across **65** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-12-01 | 1 | 0 | 0 | 1 | 0 | 1 |
-| last720d | 2024-12-06 | 10 | 7 | 0 | 30 | 3 | 359 |
+| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-31 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-02 | 1 | 0 | 0 | 1 | 0 | 1 |
+| last720d | 2024-12-07 | 10 | 7 | 0 | 30 | 3 | 359 |
 
 ## Release assets
 
@@ -67,6 +67,16 @@ Total: **7,044** lines of code across **65** files in the top 5 languages.
 | [SHA2-256SUMS_v1.3.txt](https://github.com/sinclairtarget/git-who/releases/download/v1.3/SHA2-256SUMS_v1.3.txt) | 522 B | `other` |
 | [SHA2-256SUMS_v1.3.txt.sig](https://github.com/sinclairtarget/git-who/releases/download/v1.3/SHA2-256SUMS_v1.3.txt.sig) | 294 B | `other` |
 
+## Distribution status
+
+Reported by **13** distros on [repology.org](https://repology.org/project/git-who). **10** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.3` | ✅ latest |
+| Nix unstable | `1.3` | ✅ latest |
+| openSUSE Tumbleweed | `1.3` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for git-who lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `git-who` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -76,4 +86,4 @@ Install metadata for git-who lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:32:03Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:44:19Z._
